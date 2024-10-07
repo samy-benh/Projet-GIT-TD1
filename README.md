@@ -1,4 +1,4 @@
-## Bienvenue sur notre Readme
+## Bienvenue sur notre README
 
 ## Auteur
 
