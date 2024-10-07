@@ -15,14 +15,15 @@
 
 _`Début du projet le 07/10/2024`_
 
-Liste de tâches
+**Liste des tâches**
  - [x] Utiliser le Markdown
- - [ ] Mettre des liens 
+ - [x] Mettre des liens 
  - [x] Ajouter une image
+ - [x] Souligner, mettre en gras
 
 ***
 
-#### Hauts sommets de France 🇫🇷 
+### Hauts sommets de France 🇫🇷 
 **Mont-Blanc**, 4 808 m
 > Haute-Savoie
 
@@ -40,13 +41,21 @@ Liste de tâches
 
 ***
 
-|       |  Altitude (m)     |
+|   Sommets    |  Altitude (m)     |
 |---    |:-:    |
 |    Mont-Blanc   |   4 808    |
 |    Mont Maudit   |  4 465     |
 |   Dôme Du Goûter    |   4 465    |
 |    Aiguille Verte   |    4 304   |
 |   Barre Des Ecrins    |   4 122
+
+***
+
+### Source Utilisé 
+
+
+
+
 
 
 
