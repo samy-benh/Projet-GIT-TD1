@@ -25,8 +25,9 @@ _`Début du projet le 07/10/2024`_
 ***
 
 ### Hauts sommets de France 🇫🇷 
+Nous allons vous présenter <u>les plus hauts sommets de France </u>
 
-![left 1000%](markdown.png?raw=true)
+![left 1000%](Mont-Blanc.jpg?raw=true)
 
 ***
 
