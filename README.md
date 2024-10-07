@@ -5,7 +5,7 @@
 👤**Nom du groupe : El habriri Samy & Panaiva Jeremy** [🇫🇷 Contactez nous](<samyel917@gmail.com.dev>)
 
 * Github: [@samy-benh](https://github.com/samy-benh)
-* Gihub : [@jeremy-137](https://gitub.com/jeremy-137)
+* Github : [@jeremy-137](https://gitub.com/jeremy-137)
 
 ***
 
