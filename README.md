@@ -38,6 +38,16 @@ Liste de tâches
 **Barre Des Ecrins**, 4 102 m 
 > Vallouise
 
+***
+
+|       |  Altitude (m)     |
+|---    |:-:    |
+|    Mont-Blanc   |   4 808    |
+|    Mont Maudit   |  4 465     |
+|   Dôme Du Goûter    |   4 465    |
+|    Aiguille Verte   |    4 304   |
+|   Barre Des Ecrins    |   4 122
+
 
 
 
