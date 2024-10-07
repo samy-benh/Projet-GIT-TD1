@@ -19,8 +19,25 @@ Liste de tâches
  - [x] Utiliser le Markdown
  - [ ] Mettre des liens 
  - [x] Ajouter une image
+
 ***
 
-#### Prenons l'exemple des plus hauts sommets de France
+#### Hauts sommets de France 🇫🇷 
+**Mont-Blanc**, 4 808 m
+> Haute-Savoie
+
+**Mont Maudit**, 4 465 m
+> A la frontière entre la France (Haute-Savoie) et l'Italie (vallée d'Aoste).
+
+**Dôme du Goûter**, 4 304 m
+> Entre la Haute-Savoie et la Vallée d'Aoste. 
+
+**Aiguille Verte**, 4 122 m
+> Haute-Savoie
+
+**Barre Des Ecrins**, 4 102 m 
+> Vallouise
+
+
 
 
