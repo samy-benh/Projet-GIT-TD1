@@ -2,7 +2,7 @@
 
 ## Auteur
 
-👤**Nom du groupe : El habriri Samy & Panaiva Jeremy** [🇫🇷 Contactez nous](<samyel917@gmail.com.dev>)
+👤**Nom du groupe : El habriri Samy & Panaiva Jeremy** [Contactez nous](<samyel917@gmail.com.dev>)
 
 * Les 8 sommets les plus hauts de France [Wiki Jeremy](https://github.com/jeremy-137/jeremy/wiki)
 * Github: [@samy-benh](https://github.com/samy-benh)
@@ -12,20 +12,20 @@
 
 ### Projet TD - Utiliser le Markdown 
 
-![left 1000%](markdown.png?raw=true)
+![left 100%](markdown.png?raw=true)
 
 _`Début du projet le 07/10/2024`_
 
 **Liste des tâches**
  - [x] Utiliser le Markdown
- - [x] Mettre des liens 
+ - [x] ~~Mettre des liens~~
  - [x] Ajouter une image
- - [x] Souligner, mettre en gras
+ - [x] ~~Souligner, mettre en gras~~
 
 ***
 
 ### Hauts sommets de France 🇫🇷 
-Nous allons vous présenter <u>les plus hauts sommets de France </u>
+Nous allons vous présenter les plus hauts sommets de France
 
 ![left 1000%](Mont-Blanc.jpg?raw=true)
 
@@ -59,6 +59,16 @@ Nous allons vous présenter <u>les plus hauts sommets de France </u>
 ***
 
 ### Source Utilisé 
+* [Altitude News](https://www.altitude.news/top5/2019/05/27/montagnes-les-plus-hautes-de-france/) 
+
+* [Mont Blanc Wikipédia](https://fr.wikipedia.org/wiki/Mont_Blanc)
+
+* [Mont Maudit Wikipédia](https://fr.wikipedia.org/wiki/Mont_Maudit)
+
+
+
+
+
 
 
 
